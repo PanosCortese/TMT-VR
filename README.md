@@ -63,7 +63,7 @@ The repository contains no participant data. The APKs store results only on the 
 
 ## Citation
 
-Please cite the software using [CITATION.cff](CITATION.cff) (GitHub shows a "Cite this repository" button). Releases are archived on Zenodo; the DOI will be added here.
+Please cite the software using [CITATION.cff](CITATION.cff) (GitHub shows a "Cite this repository" button). Releases are archived on Zenodo. Version 1.1.0: DOI [10.5281/zenodo.23751063](https://doi.org/10.5281/zenodo.23751063). All versions (resolves to the latest): DOI [10.5281/zenodo.23751062](https://doi.org/10.5281/zenodo.23751062).
 
 ## Funding
 

@@ -4,6 +4,11 @@ type: software
 title: "TMT-VR: an immersive virtual-reality Trail Making Test (Unity project, head and controller versions, English and Greek)"
 version: "1.1.0"
 date-released: "2026-10-29"
+doi: "10.5281/zenodo.23751063"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23751062"
+    description: "Concept DOI for all versions of TMT-VR"
 license: MIT
 repository-code: "https://github.com/PanosCortese/TMT-VR"
 authors:
