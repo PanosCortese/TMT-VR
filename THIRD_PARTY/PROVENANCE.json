@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "prepared_utc": "2026-10-28T00:51:47+00:00",
+  "purpose": "Provenance of the third-party licence and notice texts in THIRD_PARTY/ and of THIRD_PARTY_NOTICES.md.",
+  "path_base": "Local source paths are relative to the Unity project root. Library/PackageCache/ paths are those Unity creates when it resolves Packages/packages-lock.json.",
+  "copies": [
+    {
+      "file": "THIRD_PARTY/OPENXR_1.15.1_LICENSE.md",
+      "bytes": 594,
+      "sha256": "579AE5E666C4D955C1A0F6904D2FE9319D2BD94D38120FD1A50FEB78CE87CE0F",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/LICENSE.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/OPENXR_1.15.1_THIRD_PARTY_NOTICES.md",
+      "bytes": 1136,
+      "sha256": "9EB9E8D5C757CE3E6C4748090444EA9854F6B9419727F559939FDA2D4023DA6B",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1/Third Party Notices.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/XR_HANDS_1.7.0_LICENSE.md",
+      "bytes": 429,
+      "sha256": "48016E857DA1C75274BAC6ABFEF8ADDBD8D12AF70884C19EFA4E62B4FB5808BE",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.xr.hands@1ef7cf2a82e4/LICENSE.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/XR_HANDS_1.7.0_THIRD_PARTY_NOTICES.md",
+      "bytes": 1136,
+      "sha256": "9EB9E8D5C757CE3E6C4748090444EA9854F6B9419727F559939FDA2D4023DA6B",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.xr.hands@1ef7cf2a82e4/Third Party Notices.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/XRI_3.2.1_LICENSE.md",
+      "bytes": 479,
+      "sha256": "49A24C9EB3FCD078EB98CFB774C450E38F2FBB7AB46EB89265B6A51FC1E9DDBF",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.xr.interaction.toolkit@76258c00be3e/LICENSE.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/XRI_3.2.1_THIRD_PARTY_NOTICES.md",
+      "bytes": 11841,
+      "sha256": "100EFF46D4F29569D1EB85738DD86AC2CE4C4EA2E08F9BF6C784354E09F9F7B8",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.xr.interaction.toolkit@76258c00be3e/Third Party Notices.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/UNITY_UI_2.0.0_LICENSE.md",
+      "bytes": 461,
+      "sha256": "6550A14445E6C2116213B2419C4C28B75BE4B99039AFC8D091CED3192624390C",
+      "kind": "local_file",
+      "source_path": "Library/PackageCache/com.unity.ugui@7056cb05de4c/LICENSE.md",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/LIBERATION_SANS_OFL.txt",
+      "bytes": 4469,
+      "sha256": "37F8552E9A874EC10710DC0EDE6A9ADF168E6609FBD02A507F35629373B85A48",
+      "kind": "local_file",
+      "source_path": "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/EMOJIONE_ATTRIBUTION.txt",
+      "bytes": 185,
+      "sha256": "4B65F8960E4F4C5C8B35FD139E369265E9BB45667FC16461B2BA01188D464D93",
+      "kind": "local_file",
+      "source_path": "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt",
+      "copied_utc": "2026-10-28T00:51:34+00:00",
+      "method": "byte-for-byte copy; no encoding or newline changes"
+    },
+    {
+      "file": "THIRD_PARTY/VR_TEMPLATE_9.2.0_LICENSE.md",
+      "bytes": 478,
+      "sha256": "20A791804A3EEB596BCB3DC0C135EEFBAA532C92810E3D09C3728566DC65C4E0",
+      "kind": "local_archive_member",
+      "archive_path": "com.unity.template.vr-9.2.0.tgz (Unity Hub template cache)",
+      "member": "package/LICENSE.md",
+      "copied_utc": "2026-10-28T00:51:36+00:00",
+      "method": "exact member bytes read in memory; archive not extracted"
+    },
+    {
+      "file": "THIRD_PARTY/UNITY_COMPANION_LICENSE_v1.4.txt",
+      "bytes": 5899,
+      "sha256": "538E1932AAA1603AA64F0977A66FA05FC718B6821A2CD5A8DB47FA2A9208D47E",
+      "kind": "official_web_source",
+      "url": "https://unity.com/legal/licenses/unity-companion-license",
+      "resolved_url": "https://unity.com/legal/licenses/unity-companion-license",
+      "retrieved_utc": "2026-10-28T00:51:41+00:00",
+      "content_type": "text/html; charset=utf-8",
+      "response_sha256": "ACDF4C9984EA1E31192F7105A5411B177CD5AE356DC3E3023DC790C6A5601813",
+      "response_bytes": 544705,
+      "method": "Official HTML main-content visible text, through the licence date. HTML entities decoded; within-paragraph whitespace normalized; paragraph breaks preserved as blank lines. Navigation/change-log link omitted; wording retained."
+    },
+    {
+      "file": "THIRD_PARTY/UNITY_PACKAGE_DISTRIBUTION_LICENSE_v2.1.txt",
+      "bytes": 4580,
+      "sha256": "6B00164A9033EDA677534EEA6028E05B9B91C9E6545ED9B5864DCF87DAB2F7FA",
+      "kind": "official_web_source",
+      "url": "https://unity.com/legal/licenses/unity-package-distribution-license",
+      "resolved_url": "https://unity.com/legal/licenses/unity-package-distribution-license",
+      "retrieved_utc": "2026-10-28T00:51:46+00:00",
+      "content_type": "text/html; charset=utf-8",
+      "response_sha256": "C68F6BFEE4A21FFE96491B2947B155494E589FE1231B1B1DD0B9A4CBE22B9B60",
+      "response_bytes": 542036,
+      "method": "Official HTML main-content visible text, through the licence date. HTML entities decoded; within-paragraph whitespace normalized; paragraph breaks preserved as blank lines. Navigation/change-log link omitted; wording retained."
+    },
+    {
+      "file": "THIRD_PARTY/INTER_3.010_OFL.txt",
+      "bytes": 4366,
+      "sha256": "E68284465DFFB78145848F2C2E466ADD3A8F1025788497E95E090F06E5BC19A4",
+      "kind": "official_web_source",
+      "url": "https://raw.githubusercontent.com/rsms/inter/aca7606f2/LICENSE.txt",
+      "resolved_url": "https://raw.githubusercontent.com/rsms/inter/aca7606f2/LICENSE.txt",
+      "retrieved_utc": "2026-10-28T00:51:47+00:00",
+      "content_type": "text/plain; charset=utf-8",
+      "response_sha256": "E68284465DFFB78145848F2C2E466ADD3A8F1025788497E95E090F06E5BC19A4",
+      "response_bytes": 4366,
+      "method": "Exact response bytes from the installed font commit aca7606f2; no newline or encoding changes."
+    }
+  ],
+  "inter_font_metadata_observed": {
+    "font_path": "Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular.ttf",
+    "version": "3.010;git-aca7606f2",
+    "copyright": "Copyright 2019 The Inter project authors",
+    "licence": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+    "method": "Read only the TrueType name table; no font copy or change."
+  },
+  "limits": [
+    "Official HTML response hashes identify retrieval responses; extracted licence text hashes identify saved plain text.",
+    "Licences for TMT-VR's own code, spoken instructions, sound effects, music and logos are stated in NOTICE.md, not here."
+  ],
+  "sha256_manifest_path_base": "repository root (parent of THIRD_PARTY); all entries in THIRD_PARTY/SHA256_MANIFEST.txt are relative to this directory."
+}

@@ -1,0 +1,11 @@
+Welcome to the Trail Making Test in Virtual Reality.
+This test consists of two main parts: Task A, and Task B.
+For each part, you will first complete a short tutorial.
+Then, you will do a practice trial.
+Finally, you will do the actual test.
+The tutorials and practice trials are just to help you get comfortable. They are not the main measurement.
+To select a cube target, keep your aim on the target for one second.
+If you select the correct target, it will turn blue, and you will hear a confirmation sound.
+If you select the wrong target, it will briefly turn red with an error sound. Then it will return to normal.
+Lines may appear between correct targets to show your progress.
+Please work as quickly, and accurately, as you can.

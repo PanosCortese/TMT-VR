@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use TMT-VR, please cite it as below."
+type: software
+title: "TMT-VR: an immersive virtual-reality Trail Making Test (Unity project, head and controller versions, English and Greek)"
+version: "1.1.0"
+date-released: "2026-10-29"
+license: MIT
+repository-code: "https://github.com/PanosCortese/TMT-VR"
+authors:
+  - family-names: Kourtesis
+    given-names: Panagiotis
+    orcid: "https://orcid.org/0000-0002-2914-1064"
+    affiliation: "National and Kapodistrian University of Athens"
+keywords:
+  - virtual reality
+  - Trail Making Test
+  - neuropsychological assessment
+  - Unity
+  - OpenXR
+abstract: >-
+  Unity project for TMT-VR, a virtual-reality version of the Trail Making Test
+  (Parts A and B) for the HTC VIVE Focus Vision. Release 1.1.0 contains four
+  apps: head-direction and controller-ray pointing, each in English and Greek,
+  each built as an Android APK for the standalone headset and as a Windows
+  64-bit PC VR build. The controller apps include a passive motion logger that records events and
+  poses only.

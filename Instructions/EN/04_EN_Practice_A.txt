@@ -1,0 +1,1 @@
+Task A. Practice trial. Your goal is to select the cube targets in numerical order: 1… 2… 3… 4… and so on, until the last target. This is practice to get familiar with the task. Your performance will not be recorded. When you are ready, begin.

@@ -1,0 +1,23 @@
+{
+  "upload_type": "software",
+  "title": "TMT-VR: an immersive virtual-reality Trail Making Test (Unity project, head and controller versions, English and Greek)",
+  "version": "1.1.0",
+  "description": "<p>Unity project for TMT-VR, a virtual-reality version of the Trail Making Test (Parts A and B) for the HTC VIVE Focus Vision. Release 1.1.0 contains four apps: head-direction and controller-ray pointing, each in English and Greek. Each app is built as an Android APK for the standalone headset and as a Windows 64-bit PC VR build; all eight are attached to the GitHub release. The controller apps include a passive motion logger that records events and poses only; no adjusted or motor-corrected score is computed. The repository contains no participant data.</p><p>Code: MIT. Spoken instructions, on-screen instruction texts and instruction script: CC BY 4.0. Third-party components keep their own licences; logos and the EU emblem are not licensed (see NOTICE.md).</p>",
+  "creators": [
+    {
+      "name": "Kourtesis, Panagiotis",
+      "affiliation": "National and Kapodistrian University of Athens",
+      "orcid": "0000-0002-2914-1064"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["virtual reality", "Trail Making Test", "neuropsychological assessment", "Unity", "OpenXR"],
+  "communities": [{ "identifier": "geriatric" }],
+  "grants": [{ "id": "10.13039/501100000780::101149390" }],
+  "related_identifiers": [
+    { "identifier": "https://www.geriatricproject.eu/", "relation": "isPartOf", "resource_type": "other" }
+  ],
+  "notes": "Funded by the European Union under the Horizon Europe Marie Skłodowska-Curie Actions (grant agreement No 101149390, GERIATRIC). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them."
+}

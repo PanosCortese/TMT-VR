@@ -1,0 +1,1 @@
+Task A. Actual test. Select the targets in numerical order, starting from 1, and continue until the last target. Work as quickly, and accurately, as you can. Task A starts in 3… 2… 1… Go.

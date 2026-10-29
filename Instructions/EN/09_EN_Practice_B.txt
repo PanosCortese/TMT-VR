@@ -1,0 +1,1 @@
+Task B. Practice trial. Your goal is to select the targets by alternating numbers and letters: 1… A… 2… B… 3… C… and so on, until the last target. This is practice to get familiar with the task. Your performance will not be recorded. When you are ready, begin.

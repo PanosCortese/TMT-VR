@@ -1,0 +1,1 @@
+This is the tutorial for Task A. Head mode. Move your head so the cube labeled 1 is in the center of your view. Hold it there for one second to select it. Then select 2, then 3, and so on, until you have selected all eight tutorial targets. If you choose the wrong target, it will turn red. Simply select the correct next target. Are you ready? The tutorial starts in 3… 2… 1… Go.

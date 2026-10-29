@@ -1,0 +1,24 @@
+Tutorial Overlays
+Eye-Tracking:
+Look at target
+Hold 1 second
+Follow the order
+Red = False
+Blue = Correct
+Head:
+Center the target
+Hold 1 second
+Follow the order
+Red = False
+Blue = Correct
+Pointer:
+Point at target
+Hold 1 second
+Follow the order
+Red = False
+Blue = Correct
+Practice Overlays
+Practice only (not recorded)
+Select in correct order
+Hold 1 second to select
+Work fast and accurately

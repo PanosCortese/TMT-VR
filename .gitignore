@@ -1,0 +1,56 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+Assets/_Recovery/
+Assets/_Recovery.meta
+
+# IDE and tools
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+.utmp/
+
+# Build outputs and signing
+*.apk
+*.aab
+*.build.json
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+
+# Data: never commit participant or result files
+*.csv
+TMTVR_Participants_Data*/
+scoresID*
+
+# Package samples restored locally (see BUILDING.md)
+Assets/Samples/OpenXR Plugin/1.15.1/Controller/
+Assets/Samples/OpenXR Plugin/1.15.1/Controller.meta
+Assets/Samples/OpenXR Plugin/1.15.1/Controller XRInput/
+Assets/Samples/OpenXR Plugin/1.15.1/Controller XRInput.meta
+Assets/Samples/XR Hands/1.7.0/Gestures/
+Assets/Samples/XR Hands/1.7.0/Gestures.meta
+Assets/Samples/XR Hands/1.7.0/HandVisualizer/
+Assets/Samples/XR Hands/1.7.0/HandVisualizer.meta
+Assets/TMTVR_Head_Geriatric/Samples_XR Hands_1.7.0_HandVisualizer_Materials_Blue.mat
+Assets/TMTVR_Head_Geriatric/Samples_XR Hands_1.7.0_HandVisualizer_Materials_Blue.mat.meta

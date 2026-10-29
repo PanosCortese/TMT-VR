@@ -1,0 +1,1 @@
+Task B. Actual test. Alternate numbers and letters, starting from 1… then A… then 2… then B… and so on, until the last target. Work as quickly, and accurately, as you can. Task B starts in 3… 2… 1… Go.
